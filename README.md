@@ -10,6 +10,8 @@ A collection of AI agents built with **Google ADK** and **Gemini 2.5 Flash**.
 | 01 | Geography Assistant | Answers questions about countries, capitals, regions, and geography facts |
 | 02 | Math Assistant | Solves mathematical problems and performs calculations |
 | 03 | Research Assistant | Searches and summarizes information on a given topic |
+| 04 | Travel Agent | Plans trips by searching flights, hotels, and calculating total trip budgets |
+| 05 | Files Assistant | Reads and explores local files using MCP filesystem tools |
 ## Setup
 
 ```bash
